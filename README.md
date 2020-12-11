@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on e-learning platform
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 📫 How to reach me: mail@ atulsingh29@protonmail.com
+- 📫 How to reach me: visit atul.codes
 
 
 <hr>
