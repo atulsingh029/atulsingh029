@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [atul.codes](http://atul.codes?r=githubReadme)
+<!-- - 👨‍💻 All of my projects are available at [atul.codes](http://atul.codes?r=githubReadme) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
