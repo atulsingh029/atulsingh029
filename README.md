@@ -3,7 +3,7 @@
 # Atul Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 <h3>A computer science student who loves to program and learn new things.</h3>
 
-- 🔭 I’m currently working on [e-learning platform](https://github.com/atulsingh029/e-learning-platform)
+- 🔭 I’m currently working on [django](#)
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
