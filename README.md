@@ -1,11 +1,12 @@
 
 
 # Atul Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
-<h3>A computer science student who loves to program and learn new things.</h3>
+<h3>A CS Engineer who loves to build and learn new things.</h3>
+<h4>Currently working as a lead full-stack engineer in a startup. Building next-gen AML application for Banks, Insurance, Real estate, Jewellers, Ecomm firms around the world.
+Experienced in building scalable Web Applications, Batch Processing Systems, Data pipelines, Event driven applications. Built and delivered end-to-end product to 160+ clients in UAE and some of the biggest players in their respective sector in India like HDFC Bank, HDFC ERGO, Star Health. 
+Tools & Technology - Python, c#, JavaScript, SQL, Django, .NET, Node, Kafka, Kubernetes, Docker, Nginx, Linux.
+</h4>
 
-- 🔭 I’m currently working on [asp.net core](#)
-
-- 🌱 I’m currently learning **data structures and algorithms**
 
 <!-- - 👨‍💻 All of my projects are available at [atul.codes](http://atul.codes?r=githubReadme) -->
 
@@ -14,7 +15,7 @@
 <a href="https://linkedin.com/in/atulsingh29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="atulsingh29" height="30" width="40" /></a>
 <a href="https://instagram.com/atulsingh.29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="atulsingh.29" height="30" width="40" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="40" height="40"/> </a>
@@ -30,4 +31,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulsingh029&" alt="atulsingh029" /></p>
-
+-->
