@@ -2,7 +2,7 @@
 
 # Atul Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">
 <h3>A CS Engineer who loves to build and learn new things.</h3>
-<h4>Currently working as a lead full-stack engineer in a startup. Building next-gen AML application for Banks, Insurance, Real estate, Jewellers, Ecomm firms around the world.
+<h4>Currently working as lead full-stack engineer in a startup. Building next-gen AML application for Banks, Insurance, Real estate, Jewellers, Ecomm firms around the world.
 Experienced in building scalable Web Applications, Batch Processing Systems, Data pipelines, Event driven applications. Built and delivered end-to-end product to 160+ clients in UAE and some of the biggest players in their respective sector in India like HDFC Bank, HDFC ERGO, Star Health. 
 Tools & Technology - Python, c#, JavaScript, SQL, Django, .NET, Node, Kafka, Kubernetes, Docker, Nginx, Linux.
 </h4>
